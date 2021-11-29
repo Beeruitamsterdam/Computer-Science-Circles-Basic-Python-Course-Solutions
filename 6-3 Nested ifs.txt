@@ -1,0 +1,1 @@
+Answer is: one line: 'User logged on.'
